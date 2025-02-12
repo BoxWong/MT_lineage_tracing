@@ -14,4 +14,4 @@
 
 
 #example run
-Rscript CIV_full_analysis_V1.R linear_bn 257859 400 1 500 5e-08
+Rscript SSV_full_analysis_V1.R linear_bn 257859 400 1 500 5e-08
